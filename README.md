@@ -9,7 +9,7 @@ TEAM DETAILS:
 4.	Amisha Kirti – C. V. Raman Global University, Bhubaneswar
 5.	Pragya Kumari – Birla Institute of Technology, Mesra, Ranchi
 
-
+#####################
 TOOLS USED:
 1. Django Framework
 2. Python

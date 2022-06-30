@@ -1,1 +1,1 @@
-web: gunicorn vtproject1.wsgi
+web: gunicorn vtproject1.   
